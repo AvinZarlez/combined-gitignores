@@ -1,0 +1,13 @@
+// This setting files is for Unity projects.
+// Place in your root folder to overwrite default and user settings.
+{
+	
+	//-------- Search configuration --------
+
+	// The folders to exclude when doing a full text search in the workspace.
+	"search.excludeFolders": [
+		".git",
+		"*.dll",
+		"*.meta"
+	],
+}
